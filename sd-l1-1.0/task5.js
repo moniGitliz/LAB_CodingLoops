@@ -16,3 +16,5 @@ for (let i = 1; i <= numberOfLines; i++) {
     console.log(i); // Si no hay nada en output, muestra el número
   }
 };
+
+
